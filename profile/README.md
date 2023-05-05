@@ -25,3 +25,14 @@ Values form our community and influence its behavior also have a direct impact o
 * Ethics: Ethics is the most important value in the community, which has the highest priority in decisions. In the community, moral principles are never sacrificed for the sake of other activities.
 
 * Validity: Expert approval is required for every community-produced and published content. If an error is discovered in previously published content, the community must notify the appropriate parties and update the content.
+
+## Social Media
+
+- [Website](https://fullstacksjs.com/)
+- [Telegram](https://t.me/fullstacksjs)
+- [YouTube](https://www.youtube.com/c/@FullstacksJS)
+- [LinkedIn](https://www.linkedin.com/company/fullstacksjs/)
+- [Discord](https://kutt.it/fsk-discord)
+- [Twitch](https://www.twitch.tv/fullstacksjs)
+- [GitHub](https://github.com/fullstacksjs)
+- [Twitter](https://twitter.com/fullstacksjs)
