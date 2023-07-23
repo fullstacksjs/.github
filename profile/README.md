@@ -1,6 +1,6 @@
 <h1><a href="https://fullstacksjs.com">FullstacksJS</a></h1>
 
-![Header](https://raw.githubusercontent.com/fullstacksjs/.github/blob/main/assets/header.webp)
+![Header](https://raw.githubusercontent.com/fullstacksjs/.github/blob/main/assets/header.png)
 
 ## About us
 
